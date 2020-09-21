@@ -1,0 +1,14 @@
+C:\Users\Luana\source\repos\ByteBank\ByteBank\obj\Debug\ByteBank.csprojAssemblyReference.cache
+C:\Users\Luana\source\repos\ByteBank\ByteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\Luana\source\repos\ByteBank\ByteBank\bin\Debug\ByteBank.exe.config
+C:\Users\Luana\source\repos\ByteBank\ByteBank\bin\Debug\ByteBank.exe
+C:\Users\Luana\source\repos\ByteBank\ByteBank\bin\Debug\ByteBank.pdb
+C:\Users\Luana\source\repos\ByteBank\ByteBank\obj\Debug\ByteBank.exe
+C:\Users\Luana\source\repos\ByteBank\ByteBank\obj\Debug\ByteBank.pdb
+C:\Users\Iara\Downloads\ByteBank\ByteBank\ByteBank\bin\Debug\ByteBank.exe.config
+C:\Users\Iara\Downloads\ByteBank\ByteBank\ByteBank\bin\Debug\ByteBank.exe
+C:\Users\Iara\Downloads\ByteBank\ByteBank\ByteBank\bin\Debug\ByteBank.pdb
+C:\Users\Iara\Downloads\ByteBank\ByteBank\ByteBank\obj\Debug\ByteBank.csprojAssemblyReference.cache
+C:\Users\Iara\Downloads\ByteBank\ByteBank\ByteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\Iara\Downloads\ByteBank\ByteBank\ByteBank\obj\Debug\ByteBank.exe
+C:\Users\Iara\Downloads\ByteBank\ByteBank\ByteBank\obj\Debug\ByteBank.pdb
