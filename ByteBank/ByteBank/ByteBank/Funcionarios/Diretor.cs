@@ -8,7 +8,7 @@ using ByteBank.Sistemas;
 
 namespace ByteBank.Funcionarios
 {
-    public class Diretor : Autenticavel
+    public class Diretor :  FuncionarioAutenticavel
     {
         public string Senha { get; set; }
         public Diretor(string cpf) : base(5000, cpf)
@@ -18,8 +18,7 @@ namespace ByteBank.Funcionarios
 
         public bool Autenticar(string senha)
         {
-            return Senha == senha;
-
+            return true;
         }
         public override void AumentarSalario()
         {

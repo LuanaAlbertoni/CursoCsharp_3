@@ -32,8 +32,12 @@ namespace ByteBank
             luana.Nome = "Luana";
             luana.Senha = "asd";
 
+            ParceiroComercial parceiro = new ParceiroComercial();
+            parceiro.Senha = "123456";
+
             sistemaInterno.Logar(roberta, "1234");
             sistemaInterno.Logar(luana, "asd");
+            sistemaInterno.Logar(parceiro, "123456");
         }
 
 
